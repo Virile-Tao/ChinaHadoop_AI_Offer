@@ -1,0 +1,10 @@
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        # 时间复杂度O(NlogN)，空间复杂度O(1)
+        nums.sort()
+        return nums[-k]
+    
+    def findKthLargest_v2(self, nums: List[int], k: int) -> int:
+        # 抄别人的，堆这个数据结构我还不太会!!!
+        # 时间复杂度O(Nlogk)，空间复杂度O(k)
+        return heapq.nlargest(k, nums)[-1]
