@@ -1,0 +1,11 @@
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        # 时间复杂度O(N)，空间复杂度O(1)
+        res, sub_sum = nums[0], 0
+        for num in nums:
+            if sub_sum > 0:
+                sub_sum += num
+            else:
+                sub_sum = num
+            res = max(res, sub_sum)
+        return res
