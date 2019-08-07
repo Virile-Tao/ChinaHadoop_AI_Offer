@@ -7,6 +7,8 @@ https://github.com/wanghao07456/ChinaHadoop_AI_Offer
 
 Hi all,
 
-1、二叉树的中序遍历(https://leetcode.com/problems/binary-tree-inorder-traversal/)、二叉树的后续遍历(https://leetcode.com/problems/binary-tree-postorder-traversal/)、二叉树的层级遍历(https://leetcode.com/problems/binary-tree-level-order-traversal/)
+1、二叉树的中序遍历(https://leetcode.com/problems/binary-tree-inorder-traversal/  
+二叉树的后续遍历(https://leetcode.com/problems/binary-tree-postorder-traversal/  
+二叉树的层级遍历(https://leetcode.com/problems/binary-tree-level-order-traversal/  
 2、有序链表转换为二叉搜索树(https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
 3、有序数组转换为二叉搜索树(https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
