@@ -12,5 +12,6 @@ Hi all,
 
 1、子树(https://leetcode.com/problems/subtree-of-another-tree/)
 2、子集(https://leetcode.com/problems/subsets/)
-3、N皇后(https://leetcode.com/problems/n-queens/)。这道题提示思路是DFS。大家可以总结一下DFS和BFS
+3、N皇后(https://leetcode.com/problems/n-queens/)。  
+这道题提示思路是DFS。大家可以总结一下DFS和BFS
 
