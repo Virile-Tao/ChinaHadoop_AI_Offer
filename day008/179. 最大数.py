@@ -13,12 +13,12 @@ class Solution:
         
         
         
-后面尝试使用快排，改进上述算法
+# 后面尝试使用快排，改进上述算法
 
 
 
 
-作弊的做法：
+# 作弊的做法：
 class LargerNumKey(str):
     def __lt__(x, y):
         return x+y > y+x
