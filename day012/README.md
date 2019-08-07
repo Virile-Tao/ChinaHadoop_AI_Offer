@@ -12,3 +12,5 @@ Hi all,
 二叉树的层级遍历(https://leetcode.com/problems/binary-tree-level-order-traversal/  
 2、有序链表转换为二叉搜索树(https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
 3、有序数组转换为二叉搜索树(https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+
+https://leetcode.com/problems/maximum-depth-of-binary-tree/ , 二叉树的最大宽度。今天临时加塞一道题，二分再熟悉一下。easy哦，睡觉觉前花个10分钟
