@@ -12,5 +12,5 @@ Hi all,
 
 1、二叉树的路径和(https://leetcode.com/problems/path-sum-ii/)
 2、将二叉树拆成链表(https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-3、课程表(https://leetcode.com/problems/course-schedule/)，思路是BFS，顺便总结下拓扑排序
+3、课程表(https://leetcode.com/problems/course-schedule/) ，思路是BFS，顺便总结下拓扑排序
 
