@@ -1,10 +1,14 @@
 def my_sort(nums: list) -> list:
+    even = 0
     for num in nums:
-        # 如果存在一个偶数，直接按顺序排
         if num % 2 == 0:
-            return sorted(nums)
-    # 如果不存在偶数，直接返回
-    return nums
+            even += 1
+    # 全为奇数或全为偶数，无法交换，直接返回
+    if even == len(nums) or even == 0:
+        return nums
+    # 既存在奇数，又存在偶数，快排后返回
+    else:
+        return sorted(nums)
     
     
     
