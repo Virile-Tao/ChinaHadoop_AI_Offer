@@ -14,6 +14,6 @@ Hi all,
 
 1、合并区间(https://leetcode.com/problems/merge-intervals/)
 2、有效数字(https://leetcode.com/problems/valid-number/)
-3、序列排序(https://leetcode.com/problems/permutation-sequence/）
+3、序列排序(https://leetcode.com/problems/permutation-sequence/ ）
 
 今天两道hard题，要求必须写出解题思路
